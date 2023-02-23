@@ -6,6 +6,6 @@ Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
 **Era um vez**
 
-![This is an image](./IMG/supra mk5)
+![This is an image](./IMG/supra mk5.png)
 
 ~~aaaaa~~
