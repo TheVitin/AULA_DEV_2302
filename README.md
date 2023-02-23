@@ -6,6 +6,8 @@ Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
 **Era um vez**
 
+![This is an image](https://raw.githubusercontent.com/TheVitin/AULA_DEV_2302/main/IMG/supra%20mk5.png)
+
 ![This is an image](./IMG/https://raw.githubusercontent.com/TheVitin/AULA_DEV_2302/main/IMG/supra%20mk5.png)
 
 ~~aaaaa~~
