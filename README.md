@@ -6,6 +6,6 @@ Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
 
 **Era um vez**
 
-![This is an image](./IMG/Capturadetela2023-02-23090731.png)
+![This is an image](./IMG/)
 
 ~~aaaaa~~
